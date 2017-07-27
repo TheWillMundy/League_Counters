@@ -28,4 +28,4 @@ An Alexa Skill designed to assist League of Legends players across the world.
 
 *Help: "Alexa, ask League Counters for help"*
 
-*Stop/Cancel: "Alexa, stop/cancel"
+*Stop/Cancel: "Alexa, stop/cancel"*
