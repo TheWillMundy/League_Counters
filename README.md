@@ -14,9 +14,9 @@ An Alexa Skill designed to assist League of Legends players across the world.
   **Example: "Alexa, ask League Counters for champions which Tahm Kench does well against"**
 
 ### Lane Partners:
-  *"Alexa, ask League Counters for {champion} lane partners"*
+  *"Alexa, ask League Counters for lane partners for {champion}"*
 
-  **Example: "Alexa, ask League Counters for Braum lane partners"**
+  **Example: "Alexa, ask League Counters for lane partners for Braum"**
 
 ### Counter Tips:
   *"Alexa, ask League Counters for counter tips against {champion}"*
